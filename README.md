@@ -5,7 +5,7 @@ youtube home page using CSS and HTML only
 <li>Visual Studio Code</li> 
 
 ## how it looks 
-<img src = "https://github.com/HananAlhajri/youtube-html-css/assets/92547643/26a3beb1-0a96-4c87-95b1-7f953901180f"> 
+<img src = "https://github.com/HananAlhajri/html-css-practice/assets/92547643/04dee2f8-dff4-495a-bfd7-479781fca1c2"> 
 <br><br>
 
 ## reference
